@@ -23,13 +23,11 @@ A 6 Degrees of Freedom robotic arm designed for wireless operation via a smartph
 - [Hardware Components](#-hardware-components)
 - [Wiring Diagram](#-wiring-diagram)
 - [Software Requirements](#-software-requirements)
-- [Installation](#-installation)
 - [Mobile App](#-mobile-app)
 - [Bluetooth Commands](#-bluetooth-commands)
 - [Usage](#-usage)
 - [Calibration](#-calibration)
 - [Troubleshooting](#-troubleshooting)
-- [Contributing](#-contributing)
 - [Team](#-team)
 - [License](#-license)
 - [Acknowledgments](#-acknowledgments)
@@ -148,33 +146,6 @@ A 6 Degrees of Freedom robotic arm designed for wireless operation via a smartph
 
 ---
 
-## 🚀 Installation
-
-### Step 1: Clone the Repository
-```bash
-git clone https://github.com/yourusername/flexiarm.git
-cd flexiarm
-```
-
-### Step 2: Install Arduino Libraries
-Open Arduino IDE and install the required library:
-1. Go to **Sketch** → **Include Library** → **Manage Libraries**
-2. Search for "Adafruit PWM Servo Driver"
-3. Click **Install**
-
-### Step 3: Upload the Code
-1. Open `flexiarm.ino` in Arduino IDE
-2. Select **Board:** Arduino UNO
-3. Select the correct **Port**
-4. Click **Upload**
-
-### Step 4: Install Mobile App
-1. Download the `FlexiArm. apk` file from the `app/` folder
-2. Install on your Android device (enable "Install from unknown sources")
-3. Enable Bluetooth and pair with HC-05/HC-06 (default PIN: `1234` or `0000`)
-
----
-
 ## 📲 Mobile App
 
 The **FlexiArm** controller app is built using **MIT App Inventor** and provides an intuitive interface for controlling all 6 joints of the robotic arm wirelessly. 
@@ -182,9 +153,8 @@ The **FlexiArm** controller app is built using **MIT App Inventor** and provides
 ### App Screenshots
 
 <p align="center">
-  <img src="docs/images/app-screenshot-1.png" alt="FlexiArm App Main Screen" width="280">
+  <img src="app-screenshot.jpg" alt="FlexiArm App Main Screen" width="180">
   &nbsp;&nbsp;&nbsp;
-  <img src="docs/images/app-screenshot-2.png" alt="FlexiArm App Controls" width="280">
 </p>
 
 ### App Interface Guide
