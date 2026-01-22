@@ -26,8 +26,6 @@ A 6 Degrees of Freedom robotic arm designed for wireless operation via a smartph
 - [Mobile App](#-mobile-app)
 - [Bluetooth Commands](#-bluetooth-commands)
 - [Usage](#-usage)
-- [Calibration](#-calibration)
-- [Troubleshooting](#-troubleshooting)
 - [Team](#-team)
 - [License](#-license)
 - [Acknowledgments](#-acknowledgments)
