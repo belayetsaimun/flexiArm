@@ -153,7 +153,7 @@ The **FlexiArm** controller app is built using **MIT App Inventor** and provides
 <p align="center">
   <img src="app-screenshot1.jpeg" alt="FlexiArm App Main Screen" width="200">
   &nbsp;&nbsp;&nbsp;
-   <img src="app-screenshot1.jpg" alt="FlexiArm App Main Screen" width="180">
+   <img src="app-screenshot.jpg" alt="FlexiArm App Main Screen" width="180">
 </p>
 
 ### App Interface Guide
