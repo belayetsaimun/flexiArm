@@ -264,19 +264,19 @@ R        → Clear all saved poses
     <th>Student ID</th>
   </tr>
   <tr>
-    <td>Mueez Mejbah</td>
+    <td><a href="https://github.com/Mueez21">Mueez Mejbah</a></td>
     <td>2108010</td>
   </tr>
   <tr>
-    <td>Belayet Hossain Saimun</td>
+    <td><a href="https://github.com/belayetsaimun">Belayet Hossain Saimun</a></td>
     <td>2108032</td>
   </tr>
   <tr>
-    <td>Sammaul Islam Siam</td>
+    <td><a href="https://github.com/Sammaulsiam">Sammaul Islam Siam</a></td>
     <td>2108040</td>
   </tr>
   <tr>
-    <td>Mohammad Mesbahul Alam</td>
+    <td><a href="https://github.com/Mesbahul-jigar">Mohammad Mesbahul Alam</a></td>
     <td>2108043</td>
   </tr>
   <tr>
@@ -284,18 +284,12 @@ R        → Clear all saved poses
     <td>2108044</td>
   </tr>
   <tr>
-    <td>Md. Hasibul Islam Jihad</td>
+    <td><a href="https://github.com/Hasibul-Jihad">Md. Hasibul Islam Jihad</a></td>
     <td>2108048</td>
   </tr>
 </table>
 
----
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 ## Acknowledgments
 
