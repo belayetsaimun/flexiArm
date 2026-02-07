@@ -280,7 +280,7 @@ R        → Clear all saved poses
     <td>2108043</td>
   </tr>
   <tr>
-    <td>Saklain Shuvo</td>
+    <td><a href="https://github.com/SaklainShuvo">Saklain Shuvo</a></td>
     <td>2108044</td>
   </tr>
   <tr>
